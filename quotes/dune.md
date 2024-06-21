@@ -4,4 +4,7 @@
 * "An Animal Caught In A Trap Will Gnaw Off Its Own Leg To Escape. What Will You Do?"
 * "When Is A Gift Not A Gift?"
 * "The spice must flow."
+<<<<<<< HEAD
 * "Fear is the mind-killer."
+=======
+>>>>>>> 7c749b9 (H: m_add_dune)
